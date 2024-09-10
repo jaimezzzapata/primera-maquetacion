@@ -1,3 +1,3 @@
 function NuevoComponente(){
-
+    let variable
 }
